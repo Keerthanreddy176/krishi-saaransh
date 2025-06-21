@@ -1,0 +1,16 @@
+🖥️ 1. Clone the Repository
+git clone https://github.com/yourusername/krishi-saaransh.git
+cd krishi-saaransh
+📦 2. Create & Activate Virtual Environment (Recommended)
+Windows:
+python -m venv venv
+venv\Scripts\activate
+macOS/Linux:
+python3 -m venv venv
+source venv/bin/activate
+📥 3. Install Dependencies
+pip install -r requirements.txt
+🚀 4. Run the Streamlit App
+streamlit run krishi_app_enhanced.py
+🛑 5. Stop the App
+Press Ctrl + C in the terminal to stop the server.
